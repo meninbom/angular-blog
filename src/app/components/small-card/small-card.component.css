@@ -1,0 +1,27 @@
+.container_small-card{
+  width: 600px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+
+  display: flex;
+  flex-direction: row;
+}
+.small-card_photo > img{
+  min-width: 200px;
+  height: 100px;
+  min-height: 150px;
+  margin-right: 20px;
+}
+hr{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.small-card_title{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.small-card_title > p {
+  color: grey;
+}

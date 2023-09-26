@@ -1,0 +1,41 @@
+*{
+  margin: 10px;
+  padding: 0;
+  box-sizing: border-box;
+  color: gray;
+}
+a:hover{
+  color: white;
+}
+img{
+  border-radius:50%;
+  height: 32px;
+  width: 32px;
+  margin-top: 12px;
+}
+.container{
+  display: flex;
+  align-items: center;
+}
+
+.texts{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 500px;
+
+}
+.texts > a {
+  margin: 10px;
+}
+
+.redes{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 550px;
+}
+
+.redes > a {
+  margin: 10px;
+}
