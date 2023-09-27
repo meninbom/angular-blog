@@ -23,5 +23,6 @@ hr{
 }
 
 .small-card_title > p {
+  margin-top: 5px;
   color: grey;
 }
