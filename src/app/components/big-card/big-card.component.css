@@ -22,5 +22,5 @@
 
 .big-card_photo > img{
   min-width: 500px;
-
+  color: red;
 }
