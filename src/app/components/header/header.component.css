@@ -21,6 +21,7 @@ img{
 .texts{
   display: flex;
   flex-direction: row;
+  flex-grow: 1;
   justify-content: space-between;
   margin-right: 500px;
 
